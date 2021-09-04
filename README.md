@@ -37,5 +37,5 @@ Sample code for using all the packages.
 To download MongoDB_PointData, either fork this github repo or simply use Pypi via pip:
 
 ```sh
-pip install Mongodb_PointData
+pip install 
 ```
