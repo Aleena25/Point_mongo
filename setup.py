@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'point_mongo',         # How you named your package folder (MyLib)
   packages = ['point_mongo'],   # Chose the same as "name"
-  version = '0.1',      # Start with a small number and increase it with every change you make
+  version = '0.2',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'Library for connecting, fetching, filtering and sending back the point cloud data to MongoDB obtained using IWR6843ISK.',   # Give a short description about your library
   author = 'Aleena N A',                   # Type in your name
