@@ -8,7 +8,7 @@ setup(
   author = 'Aleena N A',                   # Type in your name
   author_email = 'aleenaalikhan06@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/Aleena25/point_mongo',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/Aleena25/point_mongo/archive/refs/tags/point_mongo-v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/Aleena25/Point_mongo/archive/refs/tags/point_mongo-v_02.tar.gz',    # I explain this later on
   keywords = ['mongodb', 'pointclouddata', 'IWR6843ISK'],   # Keywords that define your package best
   # install_requires=[            # I get to this in a second
   #         'sys',
